@@ -1,3 +1,0 @@
-#!/bin/sh
-export ops_config=production
-. /data/www/python3_vir/bin/activate
